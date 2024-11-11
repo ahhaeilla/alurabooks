@@ -17,6 +17,7 @@
 }
 
 .tópicos__item {
+    outline-style:solid;
     margin: 2em 0.5em;
 }
 
